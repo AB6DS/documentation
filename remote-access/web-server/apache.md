@@ -93,7 +93,7 @@ Now save and refresh your browser. You should see "hello world". This is not dyn
 or show your PHP info:
 
 ```php
-<?php phpinfo(); ?>
+<?php echo phpinfo(); ?>
 ```
 
 ### Further - WordPress
